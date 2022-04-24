@@ -7,8 +7,9 @@
   <img src="https://user-images.githubusercontent.com/56614267/164998207-f0298e53-aac0-41d6-be0d-6db58bbe6362.gif" alt="Logo" align="right">
   <li align="left"> 𝙉𝙖𝙢𝙚: Lucas Ângelo / Ahopness </li>
   <li align="left"> 𝙂𝙚𝙣𝙙𝙚𝙧 & 𝙋𝙧𝙤𝙣𝙤𝙣𝙪𝙣𝙨: Male | He/Him </li>
-  <li align="left"> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: SOPA & Sangria </li>
-  <li align="left"> 𝙇𝙞𝙠𝙚: Hot chocolate, silence & programming </li>
+  <li align="left"> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: SOPA & Sangria (PIER Q3 2022 Hopefully) </li>
+  <li align="left"> 𝙇𝙞𝙠𝙚𝙨: Hot chocolate, silence & programming </li>
+  <li align="left"> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: Capitalism, JK Rowling, Microsoft & Apple </li>
   <li align="left"> 𝙆𝙣𝙤𝙬𝙨: GDScript & C# </li>
   <li align="left"> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode, Photoshop, FL Studio, Krita, Audacity & Blender </li>
   <li align="left"> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Tool Development & Game programming </li>
@@ -17,7 +18,7 @@
   <br>
   <li align="left"> 𝙀-𝙢𝙖𝙞𝙡: dev.lucas.angelo@gmail.com </li>
   <li align="left"> 𝙏𝙬𝙞𝙩𝙩𝙚𝙧: @ahopness </li>
-  <li align="left"> 𝘿𝙞𝙨𝙘𝙤𝙧𝙙: Ahopness#4048 </li>
+  <li align="left"> 𝘿𝙞𝙨𝙘𝙤𝙧𝙙: Ahopness#4840 </li>
   <hr>
   <img src="https://64.media.tumblr.com/046e14cffa105b101fe48d90b3462603/d06300ef809cdec4-cf/s100x200/0a5b75f4bb899b8867af6cecc16b98fca9cad5b9.gif">
   <p align="center"> <a href="https://linktr.ee/ahopness" target=_blank> (っ◔◡◔)っ ♥ Visit my linktree! ♥ </a> </li>
