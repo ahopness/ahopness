@@ -10,7 +10,7 @@
   <li align="left"> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: SOPA & Sangria (PIER Q3 2022 Hopefully) </li>
   <li align="left"> 𝙇𝙞𝙠𝙚𝙨: Hot chocolate, silence & programming </li>
   <li align="left"> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: Capitalism, JK Rowling, Microsoft & Apple </li>
-  <li align="left"> 𝙆𝙣𝙤𝙬𝙨: GDScript & C# </li>
+  <li align="left"> 𝙆𝙣𝙤𝙬𝙨: GDScript, GLSL & C# </li>
   <li align="left"> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode, Photoshop, FL Studio, Krita, Audacity & Blender </li>
   <li align="left"> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Tool Development & Game programming </li>
   <hr>
