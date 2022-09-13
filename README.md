@@ -14,6 +14,7 @@
   <li align="left"> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Rust, 6502 ASM & ANSI C </li>
   <li align="left"> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode, Photoshop, FL Studio, Krita, Audacity & Blender </li>
   <li align="left"> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Tools & Game programming </li>
+  <li align="left"> <a href="https://linktr.ee/ahopness" target=_blank> (っ◔◡◔)っ ♥ Visit my linktree! ♥ </a> </li>
   <hr>
   <img src="https://user-images.githubusercontent.com/56614267/164999708-d1f038b5-785b-4964-a30f-ad6db21cbb5a.gif" alt="Logo" align="center">
   <br>
@@ -21,8 +22,6 @@
   <li align="left"> 𝙏𝙬𝙞𝙩𝙩𝙚𝙧: @ahopness </li>
   <li align="left"> 𝘿𝙞𝙨𝙘𝙤𝙧𝙙: Ahopness#4840 </li>
   <hr>
-  <p align="center"> <a href="https://linktr.ee/ahopness" target=_blank> (っ◔◡◔)っ ♥ Visit my linktree! ♥ </a> </li>
-  <br>
   <img src="https://cyber.dabamos.de/88x31/anarchy-now.gif">
   <img src="https://cyber.dabamos.de/88x31/24hc.gif">
   <img src="https://cyber.dabamos.de/88x31/archlinux.gif">
