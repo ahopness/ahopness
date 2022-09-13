@@ -21,8 +21,13 @@
   <li align="left"> 𝙏𝙬𝙞𝙩𝙩𝙚𝙧: @ahopness </li>
   <li align="left"> 𝘿𝙞𝙨𝙘𝙤𝙧𝙙: Ahopness#4840 </li>
   <hr>
-  <img src="https://64.media.tumblr.com/046e14cffa105b101fe48d90b3462603/d06300ef809cdec4-cf/s100x200/0a5b75f4bb899b8867af6cecc16b98fca9cad5b9.gif">
   <p align="center"> <a href="https://linktr.ee/ahopness" target=_blank> (っ◔◡◔)っ ♥ Visit my linktree! ♥ </a> </li>
+  <br>
+  <img src="https://cyber.dabamos.de/88x31/anarchy-now.gif">
+  <img src="https://cyber.dabamos.de/88x31/24hc.gif">
+  <img src="https://cyber.dabamos.de/88x31/archlinux.gif">
+  <br>
+  <img src="https://64.media.tumblr.com/046e14cffa105b101fe48d90b3462603/d06300ef809cdec4-cf/s100x200/0a5b75f4bb899b8867af6cecc16b98fca9cad5b9.gif">
 </div>
 
 
