@@ -7,9 +7,9 @@
   <img src="https://user-images.githubusercontent.com/56614267/164998207-f0298e53-aac0-41d6-be0d-6db58bbe6362.gif" alt="Logo" align="right">
   <li align="left"> 𝙉𝙖𝙢𝙚: Lucas Ângelo / Ahopness </li>
   <li align="left"> 𝙂𝙚𝙣𝙙𝙚𝙧 & 𝙋𝙧𝙤𝙣𝙤𝙣𝙪𝙣𝙨: Male | He/Him </li>
-  <li align="left"> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: SOPA & PIER (announcing Q3 Hopefully) </li>
-  <li align="left"> 𝙇𝙞𝙠𝙚𝙨: Hot chocolate, silence & programming </li>
-  <li align="left"> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: Capitalism, JK Rowling, Microsoft & Apple </li>
+  <li align="left"> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: SOPA & PIER/DIRT (announcing Q3 Hopefully) </li>
+  <li align="left"> 𝙇𝙞𝙠𝙚𝙨: Hot chocolate, silence, evangelion & web 1.0 </li>
+  <li align="left"> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: Capitalism, transphobes & the bourgeoisie </li>
   <li align="left"> 𝙆𝙣𝙤𝙬𝙨: GDScript, GLSL & C# </li>
   <li align="left"> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Rust, 6502 ASM & ANSI C </li>
   <li align="left"> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode, Photoshop, FL Studio, Krita, Audacity & Blender </li>
