@@ -13,7 +13,7 @@
   <li align="left"> 𝙆𝙣𝙤𝙬𝙨: GDScript, GLSL & C# </li>
   <li align="left"> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Rust, 6502 ASM & ANSI C </li>
   <li align="left"> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode, Photoshop, FL Studio, Krita, Audacity & Blender </li>
-  <li align="left"> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Tools & Game programming </li>
+  <li align="left"> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Graphics, Tools & Game programming </li>
   <hr>
   <img src="https://user-images.githubusercontent.com/56614267/164999708-d1f038b5-785b-4964-a30f-ad6db21cbb5a.gif" alt="Logo" align="center">
   <br>
