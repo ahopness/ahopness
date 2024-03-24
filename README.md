@@ -7,13 +7,13 @@
   <img src="https://user-images.githubusercontent.com/56614267/164998207-f0298e53-aac0-41d6-be0d-6db58bbe6362.gif" alt="Logo" align="right">
   <li align="left"> 𝙉𝙖𝙢𝙚: Lucas Ângelo </li>
   <li align="left"> 𝙂𝙚𝙣𝙙𝙚𝙧 & 𝙋𝙧𝙤𝙣𝙤𝙣𝙪𝙣𝙨: Male | He/Him </li>
-  <li align="left"> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: A new games (SOPA is currently on hold) </li>
+  <li align="left"> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: 2 new games (SOPA is currently on hold) </li>
   <li align="left"> 𝙇𝙞𝙠𝙚𝙨: Paçoquita, russian literature, evangelion & web 1.0 </li>
   <li align="left"> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </li>
   <li align="left"> 𝙆𝙣𝙤𝙬𝙨: GDScript, GLSL & C# </li>
   <li align="left"> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Rust, Pascal & ANSI C </li>
   <li align="left"> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode, Rider/CLion, Photoshop, Blender, FL Studio, Audacity & Tux Paint (jk) </li>
-  <li align="left"> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: VFX, Tools & Game programming </li>
+  <li align="left"> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Writting (sometimes) and VFX, Tools & Gameplay programming </li>
   <hr>
   <img src="https://user-images.githubusercontent.com/56614267/164999708-d1f038b5-785b-4964-a30f-ad6db21cbb5a.gif" alt="Logo" align="center">
   <br>
