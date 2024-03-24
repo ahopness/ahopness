@@ -18,8 +18,8 @@
   <img src="https://user-images.githubusercontent.com/56614267/164999708-d1f038b5-785b-4964-a30f-ad6db21cbb5a.gif" alt="Logo" align="center">
   <br>
   <br>
-  <li align="left"> 𝙀-𝙢𝙖𝙞𝙡: dev.lucas.angelo@gmail.com </li>
-  <li align="left"> 𝙏𝙬𝙞𝙩𝙩𝙚𝙧: @ahopness & @lucas_is_away </li>
+  <li align="left"> 𝙀-𝙢𝙖𝙞𝙡: <a href="mailto:dev.lucas.angelo@gmail.com" > dev.lucas.angelo@gmail.com </a> </li>
+  <li align="left"> 𝙏𝙬𝙞𝙩𝙩𝙚𝙧: <a href="https://twitter.com/ahopness" > @ahopness </a> & <a href="https://twitter.com/lucas_is_away" > @lucas_is_away </a> </li>
   <hr>
   <img src="https://64.media.tumblr.com/046e14cffa105b101fe48d90b3462603/d06300ef809cdec4-cf/s100x200/0a5b75f4bb899b8867af6cecc16b98fca9cad5b9.gif">
   <p> <a href="https://linktr.ee/ahopness" target=_blank> (っ◔◡◔)っ ♥ Visit my linktree! ♥ </a> </p>
