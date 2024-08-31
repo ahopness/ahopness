@@ -20,13 +20,17 @@
   <li align="left"> 𝙀-𝙢𝙖𝙞𝙡: <a href="mailto:dev.lucas.angelo@gmail.com" > dev.lucas.angelo@gmail.com </a> </li>
   <li align="left"> 𝙏𝙬𝙞𝙩𝙩𝙚𝙧: <a href="https://twitter.com/ahopness" > @ahopness </a> </li>
   <hr>
+  <img src="https://github.com/user-attachments/assets/7dfe3268-2556-4bf4-8975-4bbb6673cbbc"></img>
+  <br>
+  <a> Coming Soon... </a>
+  <br>
+  <br>
   <img src="https://cyber.dabamos.de/88x31/anarchy-now.gif">
   <img src="https://cyber.dabamos.de/88x31/24hc.gif">
   <img src="https://cyber.dabamos.de/88x31/archlinux.gif">
   <img src="https://anlucas.neocities.org/blacksun_icon2.gif">
   <img src="https://anlucas.neocities.org/valid401.png">
   <img src="https://anlucas.neocities.org/geocities_silicon_valley01.gif">
-  
 </div>
 
 
