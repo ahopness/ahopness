@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/56614267/164998012-9e473114-9a5c-462f-9359-a0ac25b73cc4.gif" alt="Header" align="center"></img>
+  <img src="https://github.com/user-attachments/assets/7ee3fa3a-490c-40c8-ab09-cb6a6109fa14" alt="Header" align="center"></img>
   <br>
   <hr>
-  <img src="https://user-images.githubusercontent.com/56614267/164998583-906fdb5d-f817-4e92-a7ab-e12e18ca2561.gif" alt="About" align="center">
+  <img src="https://github.com/user-attachments/assets/5cc176e0-d738-4d5e-8227-3cc5583afc86" alt="About">
   <br>
   <li align="left"> 𝙉𝙖𝙢𝙚: Lucas Ângelo </li>
   <li align="left"> 𝙂𝙚𝙣𝙙𝙚𝙧 & 𝙋𝙧𝙤𝙣𝙤𝙣𝙪𝙣𝙨: Male | He/Him </li>
@@ -14,7 +14,7 @@
   <li align="left"> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode, Rider/CLion, Photoshop, Blender, FL Studio, Audacity & Tux Paint (jk) </li>
   <li align="left"> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Writting (sometimes), Mobile Development and VFX, Tools & Gameplay programming </li>
   <hr>
-  <img src="https://user-images.githubusercontent.com/56614267/164999708-d1f038b5-785b-4964-a30f-ad6db21cbb5a.gif" alt="Logo" align="center">
+  <img src="https://github.com/user-attachments/assets/9f1bc13f-2961-4c21-936a-8adde3ad29ab" alt="Logo">
   <br>
   <br>
   <li align="left"> 𝙀-𝙢𝙖𝙞𝙡: <a href="mailto:dev.lucas.angelo@gmail.com" > dev.lucas.angelo@gmail.com </a> </li>
