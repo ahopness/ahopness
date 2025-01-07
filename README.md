@@ -6,7 +6,7 @@
   <br>
   <p> 𝙉𝙖𝙢𝙚: Lucas Ângelo </p>
   <p> 𝙂𝙚𝙣𝙙𝙚𝙧 & 𝙋𝙧𝙤𝙣𝙤𝙣𝙪𝙣𝙨: Male | He/Him </p>
-  <p> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: art & software with my friends @ <a href="https://kognum.com">kognum</a> </p>
+  <p> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: art & software with my friends @ <a href="https://github.com/Kognum/">kognum</a> </p>
   <p> 𝙇𝙞𝙠𝙚𝙨: Paçoquita, russian literature, evangelion & web 1.0 </p>
   <p> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </p>
   <p> 𝙆𝙣𝙤𝙬𝙨: GDScript, GLSL & C# </p>
