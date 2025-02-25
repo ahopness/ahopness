@@ -18,7 +18,6 @@
   <img src="https://github.com/user-attachments/assets/9f1bc13f-2961-4c21-936a-8adde3ad29ab" alt="Logo">
   <br>
   <p> 𝙀-𝙢𝙖𝙞𝙡: <a href="mailto:dev.lucas.angelo@gmail.com" > dev.lucas.angelo@gmail.com </a> </p>
-  <p> 𝙏𝙬𝙞𝙩𝙩𝙚𝙧: <a href="https://twitter.com/lucas_is_away" > @lucas_is_away </a> </p>
   <hr>
   <img src="https://github.com/user-attachments/assets/7dfe3268-2556-4bf4-8975-4bbb6673cbbc"></img>
   <br>
