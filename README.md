@@ -12,7 +12,7 @@
   <p> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </p>
   <p> 𝙆𝙣𝙤𝙬𝙨: GDScript, GLSL & C# </p>
   <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Dart, Zig, Pascal & C </p>
-  <p> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode, Rider, Photoshop, Blender & Audacity </p>
+  <p> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode (sometimes Rider), Photoshop, Blender & Audacity </p>
   <p> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Writting, Mobile Development and VFX, Tools & Gameplay programming </p>
   <hr>
   <img src="https://github.com/user-attachments/assets/9f1bc13f-2961-4c21-936a-8adde3ad29ab" alt="Logo">
@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/ThinLiquid/buttons/main/img/github.gif">
   <img src="https://anlucas.neocities.org/blacksun_icon2.gif">
   <img src="https://raw.githubusercontent.com/ThinLiquid/buttons/main/img/lainbutton.gif">
-  <img src="https://buttonwall.neocities.org/hatems%20-2-.jpg">
+  <img src="https://y2k.neocities.org/buttons/piracy.gif">
 </div>
 
 
