@@ -10,8 +10,8 @@
   <p> 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜: computer engineering @ <a href="https://www.uerj.br/">UERJ</a> 🇧🇷 </p>
   <p> 𝙇𝙞𝙠𝙚𝙨: Existentialist literature, retrofuturism & web 1.0 </p>
   <p> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </p>
-  <p> 𝙆𝙣𝙤𝙬𝙨: GDScript, GLSL & C# </p>
-  <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Dart, Python & C </p>
+  <p> 𝙆𝙣𝙤𝙬𝙨: C#, Python, GDScript & GLSL </p>
+  <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Dart, Go & maybe Pascal </p>
   <p> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode (sometimes Rider), Photoshop, Blender & Audacity </p>
   <p> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Writting, Mobile Development and VFX, Tools & Gameplay programming </p>
   <hr>
