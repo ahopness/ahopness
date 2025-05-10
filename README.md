@@ -16,6 +16,7 @@
         <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Dart, Go & maybe Pascal </p>
         <p> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode (sometimes Rider), Photoshop, Blender & Audacity </p>
         <p> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Writting, Mobile Development and VFX, Tools & Gameplay programming </p>
+        <p> 𝙎𝙤𝙘𝙞𝙖𝙡𝙨: <a href="https://bsky.app/profile/lucas.kognum.com">Bluesky</a>, <a href="https://x.com/ahopness">Twitter</a>, <a href="https://ahopness.itch.io">Itch.io</a>, <a href="https://ahopness.newgrounds.com/">Newgrounds</a>, <a href="https://play.google.com/store/apps/dev?id=8108128084347436789">Play Store</a> & <a href="https://github.com/ahopness">Here!</a> </p>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/9f1bc13f-2961-4c21-936a-8adde3ad29ab" alt="Logo">
