@@ -10,11 +10,11 @@
         <p> 𝙂𝙚𝙣𝙙𝙚𝙧 & 𝙋𝙧𝙤𝙣𝙤𝙣𝙪𝙣𝙨: Male | He/Him </p>
         <p> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: art & software with my friends @ <a href="https://github.com/Kognum/">KOGNUM</a> </p>
         <p> 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜: computer engineering @ <a href="https://www.uerj.br/">UERJ</a> 🇧🇷 </p>
-        <p> 𝙇𝙞𝙠𝙚𝙨: Existentialist literature, retrofuturism & web 1.0 </p>
+        <p> 𝙇𝙞𝙠𝙚𝙨: Existentialist literature, industrial music & web 1.0 </p>
         <p> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </p>
         <p> 𝙆𝙣𝙤𝙬𝙨: C#, Python, GDScript & GLSL </p>
-        <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Dart, Go & maybe Pascal </p>
-        <p> 𝙋𝙧𝙤𝙜𝙧𝙖𝙢 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: Godot, VSCode (sometimes Rider), Photoshop, Blender & Audacity </p>
+        <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: HLSL, Dart, Go & maybe Pascal </p>
+        <p> 𝙏𝙤𝙤𝙡𝙨 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: MonoGame, Godot, VSCode (sometimes Rider), Photoshop, Blender & Audacity </p>
         <p> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Writting, Mobile Development and VFX, Tools & Gameplay programming </p>
         <p> 𝙎𝙤𝙘𝙞𝙖𝙡𝙨: <a href="https://bsky.app/profile/lucas.kognum.com">Bluesky</a>, <a href="https://www.reddit.com/u/ahopness/">Reddit</a>, <a href="https://x.com/ahopness">Twitter</a>, <a href="https://ahopness.itch.io">Itch.io</a>, <a href="https://ahopness.newgrounds.com/">Newgrounds</a>, <a href="https://play.google.com/store/apps/dev?id=8108128084347436789">Play Store</a> & <a href="https://github.com/ahopness">Here!</a> </p>
       </td>
