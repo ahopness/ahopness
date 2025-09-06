@@ -28,7 +28,7 @@
       <td align="center">
         <img height="64px" src="https://github.com/user-attachments/assets/7dfe3268-2556-4bf4-8975-4bbb6673cbbc"></img>
         <br>
-        <a href="https://kognum.com/"> Out Now! </a>
+        <a href="https://kognum.com/"> Coming Soon! </a>
       </td>
     </tr>
   </table>
