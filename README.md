@@ -8,7 +8,7 @@
         <img src="https://github.com/user-attachments/assets/5cc176e0-d738-4d5e-8227-3cc5583afc86" alt="About">
         <p> 𝙉𝙖𝙢𝙚: Lucas Ângelo </p>
         <p> 𝙂𝙚𝙣𝙙𝙚𝙧 & 𝙋𝙧𝙤𝙣𝙤𝙣𝙪𝙣𝙨: Male | He/Him </p>
-        <p> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: art & software with my friends @ <a href="https://github.com/Kognum/">KOGNUM</a> </p>
+        <p> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: art & software with my friends @ <a href="https://kognum.com/">KOGNUM</a> </p>
         <p> 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜: computer engineering @ <a href="https://www.uerj.br/">UERJ</a> 🇧🇷 </p>
         <p> 𝙇𝙞𝙠𝙚𝙨: Existentialist literature, industrial music & web 1.0 </p>
         <p> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </p>
