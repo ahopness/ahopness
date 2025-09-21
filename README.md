@@ -14,9 +14,8 @@
         <p> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </p>
         <p> 𝙆𝙣𝙤𝙬𝙨: C#, Python, GDScript & GLSL </p>
         <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: HLSL, Dart, Go & maybe Pascal </p>
-        <p> 𝙏𝙤𝙤𝙡𝙨 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: MonoGame, Godot, VSCode (sometimes Rider), Photoshop, Blender & Audacity </p>
+        <p> 𝙏𝙤𝙤𝙡𝙨 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: MonoGame, Godot, VSCode, Photoshop, Blender & Audacity </p>
         <p> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Writting, Mobile Development and VFX, Tools & Gameplay programming </p>
-        <p> 𝙎𝙤𝙘𝙞𝙖𝙡𝙨: <a href="https://bsky.app/profile/lucas.kognum.com">Bluesky</a>, <a href="https://www.reddit.com/u/ahopness/">Reddit</a>, <a href="https://x.com/ahopness">Twitter</a>, <a href="https://ahopness.itch.io">Itch.io</a>, <a href="https://ahopness.newgrounds.com/">Newgrounds</a>, <a href="https://play.google.com/store/apps/dev?id=8108128084347436789">Play Store</a> & <a href="https://github.com/ahopness">Here!</a> </p>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/9f1bc13f-2961-4c21-936a-8adde3ad29ab" alt="Logo">
@@ -26,18 +25,18 @@
     </tr>
     <tr>
       <td align="center">
-        <img height="64px" src="https://github.com/user-attachments/assets/7dfe3268-2556-4bf4-8975-4bbb6673cbbc"></img>
+        <p>Check out my website!</p>
+        <a href="https://lucasangelo.dev/"><img height="42px" src="https://github.com/user-attachments/assets/aa9a8616-1965-457f-ba0f-4735e96f7752" /></a>
         <br>
-        <a href="https://kognum.com/"> Coming Soon! </a>
+        <br>
       </td>
     </tr>
   </table>
   <br>
   <img src="https://cyber.dabamos.de/88x31/anarchy-now.gif">
-  <img src="https://raw.githubusercontent.com/ThinLiquid/buttons/main/img/dnbtn.png">
-  <img src="https://raw.githubusercontent.com/ThinLiquid/buttons/main/img/github.gif">
+  <img src="https://y2k.neocities.org/buttons/DeadNow.jpg">
+  <img src="https://kopawz.neocities.org/indexgraphics/buttondecor/ilikecomputer.png">
   <img src="https://anlucas.neocities.org/blacksun_icon2.gif">
-  <img src="https://raw.githubusercontent.com/ThinLiquid/buttons/main/img/lainbutton.gif">
   <img src="https://y2k.neocities.org/buttons/piracy.gif">
 </div>
 
