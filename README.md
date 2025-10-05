@@ -6,11 +6,11 @@
     <tr>
       <td rowspan="2" align="left">
         <img src="https://github.com/user-attachments/assets/5cc176e0-d738-4d5e-8227-3cc5583afc86" alt="About">
-        <p> 𝙉𝙖𝙢𝙚: Lucas Ângelo </p>
+        <p> 𝙉𝙖𝙢𝙚: Lucas Ângelo (@ahopness) </p>
         <p> 𝙂𝙚𝙣𝙙𝙚𝙧 & 𝙋𝙧𝙤𝙣𝙤𝙣𝙪𝙣𝙨: Male | He/Him </p>
         <p> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: art & software with my friends @ <a href="https://kognum.com/">KOGNUM</a> </p>
         <p> 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜: computer engineering @ <a href="https://www.uerj.br/">UERJ</a> 🇧🇷 </p>
-        <p> 𝙇𝙞𝙠𝙚𝙨: Existentialist literature, industrial music & web 1.0 </p>
+        <p> 𝙇𝙞𝙠𝙚𝙨: Existentialist literature, indie folk and rock music & web 1.0 </p>
         <p> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </p>
         <p> 𝙆𝙣𝙤𝙬𝙨: C#, Python, GDScript & GLSL </p>
         <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: HLSL, Dart, Go & maybe Pascal </p>
@@ -26,7 +26,7 @@
     <tr>
       <td align="center">
         <p>Check out my website!</p>
-        <a href="https://lucasangelo.dev/"><img height="42px" src="https://github.com/user-attachments/assets/aa9a8616-1965-457f-ba0f-4735e96f7752" /></a>
+        <a href="https://lucasangelo.dev/" target="_blank"><img height="42px" src="https://github.com/user-attachments/assets/aa9a8616-1965-457f-ba0f-4735e96f7752" /></a>
         <br>
         <br>
       </td>
