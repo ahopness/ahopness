@@ -10,12 +10,11 @@
         <p> 𝙂𝙚𝙣𝙙𝙚𝙧 & 𝙋𝙧𝙤𝙣𝙤𝙣𝙪𝙣𝙨: Male | He/Him </p>
         <p> 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣: art & software with my friends @ <a href="https://kognum.com/">KOGNUM</a> </p>
         <p> 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜: computer engineering @ <a href="https://www.uerj.br/">UERJ</a> 🇧🇷 </p>
-        <p> 𝙇𝙞𝙠𝙚𝙨: Existentialist literature, indie folk and rock music & web 1.0 </p>
+        <p> 𝙇𝙞𝙠𝙚𝙨: Existentialist literature, web 1.0, indie folk & rock music </p>
         <p> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </p>
-        <p> 𝙆𝙣𝙤𝙬𝙨: C#, Python, GDScript & GLSL </p>
-        <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: HLSL, Dart, Go & maybe Pascal </p>
-        <p> 𝙏𝙤𝙤𝙡𝙨 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚: MonoGame, Godot, VSCode, Photoshop, Blender & Audacity </p>
-        <p> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Writting, Mobile Development and VFX, Tools & Gameplay programming </p>
+        <p> 𝙆𝙣𝙤𝙬𝙨: Kotlin, C#, Python, GLSL & HLSL </p>
+        <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Dart, Go & maybe Pascal </p>
+        <p> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Writting, Mobile Development & Game Development (mostly VFX, Tools & Gameplay programming) </p>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/9f1bc13f-2961-4c21-936a-8adde3ad29ab" alt="Logo">
