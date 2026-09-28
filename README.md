@@ -14,7 +14,7 @@
         <p> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </p>
         <p> 𝙆𝙣𝙤𝙬𝙨: Kotlin, Dart, C#, GLSL, Python, SQL </p>
         <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Go, Swift & maybe Pascal </p>
-        <p> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Mobile and Backend Development, Writting and Game Development</p>
+        <p> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Mobile and Backend Development, Writting, VFX and Game Development</p>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/9f1bc13f-2961-4c21-936a-8adde3ad29ab" alt="Logo">
