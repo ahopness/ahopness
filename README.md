@@ -12,8 +12,8 @@
         <p> 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜: computer engineering @ <a href="https://www.uerj.br/">UERJ</a> 🇧🇷 </p>
         <p> 𝙇𝙞𝙠𝙚𝙨: Existentialism, web 1.0, indie folk & rock music </p>
         <p> 𝘿𝙞𝙨𝙡𝙞𝙠𝙚𝙨: The bourgeoisie </p>
-        <p> 𝙆𝙣𝙤𝙬𝙨: Kotlin, Dart, C#, GLSL, Python, SQL, Shell </p>
-        <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Go, Rust, Swift & maybe Pascal </p>
+        <p> 𝙆𝙣𝙤𝙬𝙨: Kotlin, Dart, C#, GLSL, Python, SQL </p>
+        <p> 𝙒𝙖𝙣𝙩𝙨 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣: Go, Swift & maybe Pascal </p>
         <p> 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Mobile and Backend Development, Writting and Game Development</p>
       </td>
       <td align="center">
